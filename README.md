@@ -5,8 +5,6 @@
 - 💞️ Estou procurando colaborar em projetos inovadores 
 - 📫 Como chegar até mim artursousaaandrade@gmail.com
 
-- <div style="fonte-size: 100px;">Artur</div>
-
 <!---
 arturandrade/arturandrade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
